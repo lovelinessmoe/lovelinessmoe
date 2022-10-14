@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @lovelinessmoe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lovelinessmoe/lovelinessmoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 毕业于一个普通本科
+- 🌱 常用Java NodeJS VUE当然Flutter也会
+- 💞️ 没有对象，单身可撩，男孩子
+- 📫 WeChat：JAVA_EE
